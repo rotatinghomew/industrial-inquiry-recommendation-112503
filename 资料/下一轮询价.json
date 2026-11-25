@@ -1,0 +1,91 @@
+{
+  "evaluation_cutoffs": [
+    55,
+    84,
+    113,
+    124
+  ],
+  "pilot_slots": 2,
+  "max_positions": 3,
+  "active_request": [
+    {
+      "request": "N1",
+      "enterprise": "E03",
+      "phase": "中试",
+      "scale": "小",
+      "skills": [
+        "光学",
+        "洁净",
+        "结构"
+      ],
+      "permit": "详细"
+    },
+    {
+      "request": "N2",
+      "enterprise": "E08",
+      "phase": "移植",
+      "scale": "中",
+      "skills": [
+        "洁净",
+        "控制"
+      ],
+      "permit": "摘要"
+    },
+    {
+      "request": "N3",
+      "enterprise": "E11",
+      "phase": "诊断",
+      "scale": "小",
+      "skills": [
+        "光学",
+        "结构"
+      ],
+      "permit": "摘要"
+    }
+  ],
+  "accepted": [
+    {
+      "id": "P1",
+      "request": "N1",
+      "team": "B",
+      "position": 1,
+      "permit": "详细",
+      "state": "已同意",
+      "event_time": 128
+    }
+  ],
+  "updates": [
+    {
+      "request": "N1",
+      "permit": "摘要",
+      "event_time": 131
+    },
+    {
+      "team": "C",
+      "request": "N2",
+      "state": "拒绝",
+      "exposure": "N2-S1",
+      "event_time": 134
+    },
+    {
+      "team": "F",
+      "capacity": 1,
+      "event_time": 135
+    }
+  ],
+  "live_exposures": [
+    {
+      "exposure": "N2-S1",
+      "request": "N2",
+      "team": "C",
+      "position": 1,
+      "offered": [
+        "C",
+        "F"
+      ],
+      "permit": "摘要",
+      "opened": 129
+    }
+  ],
+  "historical_cutoff": 127
+}

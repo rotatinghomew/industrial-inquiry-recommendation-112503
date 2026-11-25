@@ -1,0 +1,548 @@
+[
+  {
+    "request": "Q01",
+    "enterprise": "E01",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 3,
+    "reply_days": 10
+  },
+  {
+    "request": "Q02",
+    "enterprise": "E02",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 6,
+    "reply_days": 11
+  },
+  {
+    "request": "Q03",
+    "enterprise": "E03",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "摘要",
+    "opened": 9,
+    "reply_days": 9
+  },
+  {
+    "request": "Q04",
+    "enterprise": "E04",
+    "phase": "中试",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 12,
+    "reply_days": 10
+  },
+  {
+    "request": "Q05",
+    "enterprise": "E05",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 15,
+    "reply_days": 11
+  },
+  {
+    "request": "Q06",
+    "enterprise": "E06",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "摘要",
+    "opened": 18,
+    "reply_days": 9
+  },
+  {
+    "request": "Q07",
+    "enterprise": "E07",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 21,
+    "reply_days": 10
+  },
+  {
+    "request": "Q08",
+    "enterprise": "E08",
+    "phase": "移植",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 24,
+    "reply_days": 11
+  },
+  {
+    "request": "Q09",
+    "enterprise": "E09",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "摘要",
+    "opened": 27,
+    "reply_days": 9
+  },
+  {
+    "request": "Q10",
+    "enterprise": "E10",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 30,
+    "reply_days": 10
+  },
+  {
+    "request": "Q11",
+    "enterprise": "E11",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 33,
+    "reply_days": 11
+  },
+  {
+    "request": "Q12",
+    "enterprise": "E12",
+    "phase": "诊断",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "摘要",
+    "opened": 36,
+    "reply_days": 9
+  },
+  {
+    "request": "Q13",
+    "enterprise": "E13",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 39,
+    "reply_days": 10
+  },
+  {
+    "request": "Q14",
+    "enterprise": "E14",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 42,
+    "reply_days": 11
+  },
+  {
+    "request": "Q15",
+    "enterprise": "E15",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "摘要",
+    "opened": 45,
+    "reply_days": 9
+  },
+  {
+    "request": "Q16",
+    "enterprise": "E16",
+    "phase": "中试",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 48,
+    "reply_days": 10
+  },
+  {
+    "request": "Q17",
+    "enterprise": "E17",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 51,
+    "reply_days": 11
+  },
+  {
+    "request": "Q18",
+    "enterprise": "E18",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "摘要",
+    "opened": 54,
+    "reply_days": 9
+  },
+  {
+    "request": "Q19",
+    "enterprise": "E00",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 57,
+    "reply_days": 10
+  },
+  {
+    "request": "Q20",
+    "enterprise": "E01",
+    "phase": "移植",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 60,
+    "reply_days": 11
+  },
+  {
+    "request": "Q21",
+    "enterprise": "E02",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "摘要",
+    "opened": 63,
+    "reply_days": 9
+  },
+  {
+    "request": "Q22",
+    "enterprise": "E03",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 66,
+    "reply_days": 10
+  },
+  {
+    "request": "Q23",
+    "enterprise": "E04",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 69,
+    "reply_days": 11
+  },
+  {
+    "request": "Q24",
+    "enterprise": "E05",
+    "phase": "诊断",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "摘要",
+    "opened": 72,
+    "reply_days": 9
+  },
+  {
+    "request": "Q25",
+    "enterprise": "E06",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 75,
+    "reply_days": 10
+  },
+  {
+    "request": "Q26",
+    "enterprise": "E07",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 78,
+    "reply_days": 11
+  },
+  {
+    "request": "Q27",
+    "enterprise": "E08",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "摘要",
+    "opened": 81,
+    "reply_days": 9
+  },
+  {
+    "request": "Q28",
+    "enterprise": "E09",
+    "phase": "中试",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 84,
+    "reply_days": 10
+  },
+  {
+    "request": "Q29",
+    "enterprise": "E10",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 87,
+    "reply_days": 11
+  },
+  {
+    "request": "Q30",
+    "enterprise": "E11",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "摘要",
+    "opened": 90,
+    "reply_days": 9
+  },
+  {
+    "request": "Q31",
+    "enterprise": "E12",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 93,
+    "reply_days": 10
+  },
+  {
+    "request": "Q32",
+    "enterprise": "E13",
+    "phase": "移植",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 96,
+    "reply_days": 11
+  },
+  {
+    "request": "Q33",
+    "enterprise": "E14",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "摘要",
+    "opened": 99,
+    "reply_days": 9
+  },
+  {
+    "request": "Q34",
+    "enterprise": "E15",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 102,
+    "reply_days": 10
+  },
+  {
+    "request": "Q35",
+    "enterprise": "E16",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "详细",
+    "opened": 105,
+    "reply_days": 11
+  },
+  {
+    "request": "Q36",
+    "enterprise": "E17",
+    "phase": "诊断",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "摘要",
+    "opened": 108,
+    "reply_days": 9
+  },
+  {
+    "request": "Q37",
+    "enterprise": "E18",
+    "phase": "中试",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 111,
+    "reply_days": 10
+  },
+  {
+    "request": "Q38",
+    "enterprise": "E00",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "详细",
+    "opened": 114,
+    "reply_days": 11
+  },
+  {
+    "request": "Q39",
+    "enterprise": "E01",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "洁净",
+      "控制",
+      "结构"
+    ],
+    "permit": "摘要",
+    "opened": 117,
+    "reply_days": 9
+  },
+  {
+    "request": "Q40",
+    "enterprise": "E02",
+    "phase": "中试",
+    "scale": "中",
+    "skills": [
+      "光学"
+    ],
+    "permit": "详细",
+    "opened": 120,
+    "reply_days": 10
+  },
+  {
+    "request": "Q41",
+    "enterprise": "E03",
+    "phase": "移植",
+    "scale": "小",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "permit": "详细",
+    "opened": 123,
+    "reply_days": 11
+  },
+  {
+    "request": "Q42",
+    "enterprise": "E04",
+    "phase": "诊断",
+    "scale": "小",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "permit": "摘要",
+    "opened": 126,
+    "reply_days": 9
+  }
+]

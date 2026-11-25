@@ -1,0 +1,1410 @@
+[
+  {
+    "exposure": "Q01-S1",
+    "request": "Q01",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 3,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q01-S2",
+    "request": "Q01",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 3,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q02-S1",
+    "request": "Q02",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 6,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q02-S2",
+    "request": "Q02",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 6,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q03-S1",
+    "request": "Q03",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 9,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q03-S2",
+    "request": "Q03",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 9,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q04-S1",
+    "request": "Q04",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 12,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q04-S2",
+    "request": "Q04",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 12,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q05-S1",
+    "request": "Q05",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 15,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q05-S2",
+    "request": "Q05",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 15,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q06-S1",
+    "request": "Q06",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 18,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q06-S2",
+    "request": "Q06",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 18,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q07-S1",
+    "request": "Q07",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 21,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q07-S2",
+    "request": "Q07",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 21,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q08-S1",
+    "request": "Q08",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 24,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q08-S2",
+    "request": "Q08",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 24,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q09-S1",
+    "request": "Q09",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 27,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q09-S2",
+    "request": "Q09",
+    "team": "C",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 27,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q10-S1",
+    "request": "Q10",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 30,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q10-S2",
+    "request": "Q10",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 30,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q11-S1",
+    "request": "Q11",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 33,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q11-S2",
+    "request": "Q11",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 33,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q12-S1",
+    "request": "Q12",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 36,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q12-S2",
+    "request": "Q12",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 36,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q13-S1",
+    "request": "Q13",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 39,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q13-S2",
+    "request": "Q13",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 39,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q14-S1",
+    "request": "Q14",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 42,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q14-S2",
+    "request": "Q14",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 42,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q15-S1",
+    "request": "Q15",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 45,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q15-S2",
+    "request": "Q15",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 45,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q16-S1",
+    "request": "Q16",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 48,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q16-S2",
+    "request": "Q16",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 48,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q17-S1",
+    "request": "Q17",
+    "team": "C",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 51,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q17-S2",
+    "request": "Q17",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 51,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q18-S1",
+    "request": "Q18",
+    "team": "D",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 54,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q18-S2",
+    "request": "Q18",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 54,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q19-S1",
+    "request": "Q19",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 57,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q19-S2",
+    "request": "Q19",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 57,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q20-S1",
+    "request": "Q20",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 60,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q20-S2",
+    "request": "Q20",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 60,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q21-S1",
+    "request": "Q21",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 63,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q21-S2",
+    "request": "Q21",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 63,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q22-S1",
+    "request": "Q22",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 66,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q22-S2",
+    "request": "Q22",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 66,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q23-S1",
+    "request": "Q23",
+    "team": "D",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 69,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q23-S2",
+    "request": "Q23",
+    "team": "C",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 69,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q24-S1",
+    "request": "Q24",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 72,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q24-S2",
+    "request": "Q24",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 72,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q25-S1",
+    "request": "Q25",
+    "team": "D",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 75,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q25-S2",
+    "request": "Q25",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 75,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q26-S1",
+    "request": "Q26",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 78,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q26-S2",
+    "request": "Q26",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 78,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q27-S1",
+    "request": "Q27",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 81,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q27-S2",
+    "request": "Q27",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 81,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q28-S1",
+    "request": "Q28",
+    "team": "E",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 84,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q28-S2",
+    "request": "Q28",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 84,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q29-S1",
+    "request": "Q29",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 87,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q29-S2",
+    "request": "Q29",
+    "team": "C",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 87,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q30-S1",
+    "request": "Q30",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 90,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q30-S2",
+    "request": "Q30",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 90,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q31-S1",
+    "request": "Q31",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 93,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q31-S2",
+    "request": "Q31",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 93,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q32-S1",
+    "request": "Q32",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 96,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q32-S2",
+    "request": "Q32",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 96,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q33-S1",
+    "request": "Q33",
+    "team": "C",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 99,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q33-S2",
+    "request": "Q33",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 99,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q34-S1",
+    "request": "Q34",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 102,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q34-S2",
+    "request": "Q34",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 102,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q35-S1",
+    "request": "Q35",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 105,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q35-S2",
+    "request": "Q35",
+    "team": "A",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 105,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q36-S1",
+    "request": "Q36",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 108,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q36-S2",
+    "request": "Q36",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 108,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q37-S1",
+    "request": "Q37",
+    "team": "F",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 111,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q37-S2",
+    "request": "Q37",
+    "team": "B",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 111,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q38-S1",
+    "request": "Q38",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 114,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q38-S2",
+    "request": "Q38",
+    "team": "D",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 114,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q39-S1",
+    "request": "Q39",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 117,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q39-S2",
+    "request": "Q39",
+    "team": "F",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.16666667,
+    "design": "均匀抽样不放回",
+    "cutoff": 117,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q40-S1",
+    "request": "Q40",
+    "team": "A",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 120,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q40-S2",
+    "request": "Q40",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "E"
+    ],
+    "conditional_first": 0.33333333,
+    "design": "均匀抽样不放回",
+    "cutoff": 120,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q41-S1",
+    "request": "Q41",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 123,
+    "permit": "详细"
+  },
+  {
+    "exposure": "Q41-S2",
+    "request": "Q41",
+    "team": "C",
+    "position": 2,
+    "choice_set": [
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": 0.2,
+    "design": "均匀抽样不放回",
+    "cutoff": 123,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q42-S1",
+    "request": "Q42",
+    "team": "B",
+    "position": 1,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 126,
+    "permit": "摘要"
+  },
+  {
+    "exposure": "Q42-S2",
+    "request": "Q42",
+    "team": "E",
+    "position": 2,
+    "choice_set": [
+      "A",
+      "B",
+      "D",
+      "E",
+      "F"
+    ],
+    "conditional_first": null,
+    "design": "人工安排",
+    "cutoff": 126,
+    "permit": "摘要"
+  }
+]

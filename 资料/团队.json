@@ -1,0 +1,68 @@
+[
+  {
+    "team": "A",
+    "skills": [
+      "光学",
+      "控制"
+    ],
+    "leader": "负责人甲",
+    "joint_group": "甲组",
+    "max_view": "详细",
+    "capacity": 2
+  },
+  {
+    "team": "B",
+    "skills": [
+      "光学",
+      "洁净"
+    ],
+    "leader": "负责人乙",
+    "joint_group": "乙组",
+    "max_view": "详细",
+    "capacity": 1
+  },
+  {
+    "team": "C",
+    "skills": [
+      "结构",
+      "洁净"
+    ],
+    "leader": "负责人丙",
+    "joint_group": "丙组",
+    "max_view": "摘要",
+    "capacity": 2
+  },
+  {
+    "team": "D",
+    "skills": [
+      "控制",
+      "结构"
+    ],
+    "leader": "负责人甲",
+    "joint_group": "甲组",
+    "max_view": "摘要",
+    "capacity": 2
+  },
+  {
+    "team": "E",
+    "skills": [
+      "光学",
+      "结构"
+    ],
+    "leader": "负责人丁",
+    "joint_group": "乙组",
+    "max_view": "摘要",
+    "capacity": 1
+  },
+  {
+    "team": "F",
+    "skills": [
+      "洁净",
+      "控制"
+    ],
+    "leader": "负责人戊",
+    "joint_group": "戊组",
+    "max_view": "详细",
+    "capacity": 2
+  }
+]

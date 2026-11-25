@@ -1,0 +1,546 @@
+[
+  {
+    "id": "Q01-S1-Y",
+    "exposure": "Q01-S1",
+    "responder": "B",
+    "minute": 5,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q01-S2-Y",
+    "exposure": "Q01-S2",
+    "responder": "D",
+    "minute": 6,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q02-S1-Y",
+    "exposure": "Q02-S1",
+    "responder": "A",
+    "minute": 9,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q02-S2-Y",
+    "exposure": "Q02-S2",
+    "responder": "D",
+    "minute": 10,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q03-S1-Y",
+    "exposure": "Q03-S1",
+    "responder": "E",
+    "minute": 13,
+    "response": "拒绝",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q04-S2-Y",
+    "exposure": "Q04-S2",
+    "responder": "E",
+    "minute": 18,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q05-S1-Y",
+    "exposure": "Q05-S1",
+    "responder": "E",
+    "minute": 21,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q05-S2-Y",
+    "exposure": "Q05-S2",
+    "responder": "联合代表",
+    "minute": 22,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q06-S1-Y",
+    "exposure": "Q06-S1",
+    "responder": "联合代表",
+    "minute": 25,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q06-S2-Y",
+    "exposure": "Q06-S2",
+    "responder": "D",
+    "minute": 26,
+    "response": "拒绝",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q07-S1-Y",
+    "exposure": "Q07-S1",
+    "responder": "E",
+    "minute": 29,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q07-S2-Y",
+    "exposure": "Q07-S2",
+    "responder": "F",
+    "minute": 30,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q08-S1-Y",
+    "exposure": "Q08-S1",
+    "responder": "E",
+    "minute": 33,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q09-S2-Y",
+    "exposure": "Q09-S2",
+    "responder": "C",
+    "minute": 38,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q10-S1-Y",
+    "exposure": "Q10-S1",
+    "responder": "F",
+    "minute": 41,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q10-S2-Y",
+    "exposure": "Q10-S2",
+    "responder": "B",
+    "minute": 42,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q11-S1-Y",
+    "exposure": "Q11-S1",
+    "responder": "E",
+    "minute": 45,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q11-S2-Y",
+    "exposure": "Q11-S2",
+    "responder": "F",
+    "minute": 46,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q12-S1-Y",
+    "exposure": "Q12-S1",
+    "responder": "A",
+    "minute": 49,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q12-S2-Y",
+    "exposure": "Q12-S2",
+    "responder": "联合代表",
+    "minute": 50,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q13-S1-Y",
+    "exposure": "Q13-S1",
+    "responder": "联合代表",
+    "minute": 53,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q14-S2-Y",
+    "exposure": "Q14-S2",
+    "responder": "F",
+    "minute": 43,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q15-S1-Y",
+    "exposure": "Q15-S1",
+    "responder": "F",
+    "minute": 46,
+    "response": "拒绝",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q15-S2-Y",
+    "exposure": "Q15-S2",
+    "responder": "E",
+    "minute": 47,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q16-S1-Y",
+    "exposure": "Q16-S1",
+    "responder": "E",
+    "minute": 50,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q16-S2-Y",
+    "exposure": "Q16-S2",
+    "responder": "A",
+    "minute": 51,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q17-S1-Y",
+    "exposure": "Q17-S1",
+    "responder": "C",
+    "minute": 54,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q17-S2-Y",
+    "exposure": "Q17-S2",
+    "responder": "B",
+    "minute": 55,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q18-S1-Y",
+    "exposure": "Q18-S1",
+    "responder": "D",
+    "minute": 58,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q19-S2-Y",
+    "exposure": "Q19-S2",
+    "responder": "联合代表",
+    "minute": 63,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q20-S1-Y",
+    "exposure": "Q20-S1",
+    "responder": "联合代表",
+    "minute": 66,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q20-S2-Y",
+    "exposure": "Q20-S2",
+    "responder": "B",
+    "minute": 67,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q21-S1-Y",
+    "exposure": "Q21-S1",
+    "responder": "E",
+    "minute": 70,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q21-S2-Y",
+    "exposure": "Q21-S2",
+    "responder": "B",
+    "minute": 71,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q22-S1-Y",
+    "exposure": "Q22-S1",
+    "responder": "B",
+    "minute": 74,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q22-S2-Y",
+    "exposure": "Q22-S2",
+    "responder": "F",
+    "minute": 75,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q23-S1-Y",
+    "exposure": "Q23-S1",
+    "responder": "D",
+    "minute": 78,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q24-S2-Y",
+    "exposure": "Q24-S2",
+    "responder": "E",
+    "minute": 83,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q25-S1-Y",
+    "exposure": "Q25-S1",
+    "responder": "D",
+    "minute": 86,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q25-S2-Y",
+    "exposure": "Q25-S2",
+    "responder": "F",
+    "minute": 87,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q26-S1-Y",
+    "exposure": "Q26-S1",
+    "responder": "F",
+    "minute": 90,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q26-S2-Y",
+    "exposure": "Q26-S2",
+    "responder": "联合代表",
+    "minute": 91,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q27-S1-Y",
+    "exposure": "Q27-S1",
+    "responder": "联合代表",
+    "minute": 94,
+    "response": "拒绝",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q27-S2-Y",
+    "exposure": "Q27-S2",
+    "responder": "E",
+    "minute": 95,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q28-S1-Y",
+    "exposure": "Q28-S1",
+    "responder": "E",
+    "minute": 98,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q29-S2-Y",
+    "exposure": "Q29-S2",
+    "responder": "C",
+    "minute": 88,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q30-S1-Y",
+    "exposure": "Q30-S1",
+    "responder": "F",
+    "minute": 91,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q30-S2-Y",
+    "exposure": "Q30-S2",
+    "responder": "D",
+    "minute": 92,
+    "response": "拒绝",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q31-S1-Y",
+    "exposure": "Q31-S1",
+    "responder": "A",
+    "minute": 95,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q31-S2-Y",
+    "exposure": "Q31-S2",
+    "responder": "D",
+    "minute": 96,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q32-S1-Y",
+    "exposure": "Q32-S1",
+    "responder": "B",
+    "minute": 99,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q32-S2-Y",
+    "exposure": "Q32-S2",
+    "responder": "A",
+    "minute": 100,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q33-S1-Y",
+    "exposure": "Q33-S1",
+    "responder": "C",
+    "minute": 103,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q34-S2-Y",
+    "exposure": "Q34-S2",
+    "responder": "D",
+    "minute": 108,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q35-S1-Y",
+    "exposure": "Q35-S1",
+    "responder": "B",
+    "minute": 111,
+    "response": "拒绝",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q35-S2-Y",
+    "exposure": "Q35-S2",
+    "responder": "A",
+    "minute": 112,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q36-S1-Y",
+    "exposure": "Q36-S1",
+    "responder": "B",
+    "minute": 115,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q36-S2-Y",
+    "exposure": "Q36-S2",
+    "responder": "E",
+    "minute": 116,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q37-S1-Y",
+    "exposure": "Q37-S1",
+    "responder": "F",
+    "minute": 119,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q37-S2-Y",
+    "exposure": "Q37-S2",
+    "responder": "B",
+    "minute": 120,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q38-S1-Y",
+    "exposure": "Q38-S1",
+    "responder": "B",
+    "minute": 123,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q39-S2-Y",
+    "exposure": "Q39-S2",
+    "responder": "F",
+    "minute": 128,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q40-S1-Y",
+    "exposure": "Q40-S1",
+    "responder": "A",
+    "minute": 131,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q40-S2-Y",
+    "exposure": "Q40-S2",
+    "responder": "联合代表",
+    "minute": 132,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q41-S1-Y",
+    "exposure": "Q41-S1",
+    "responder": "联合代表",
+    "minute": 135,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q41-S2-Y",
+    "exposure": "Q41-S2",
+    "responder": "C",
+    "minute": 136,
+    "response": "回函",
+    "coverage": "部分工艺"
+  },
+  {
+    "id": "Q42-S1-Y",
+    "exposure": "Q42-S1",
+    "responder": "B",
+    "minute": 139,
+    "response": "回函",
+    "coverage": "全需求"
+  },
+  {
+    "id": "Q42-S2-Y",
+    "exposure": "Q42-S2",
+    "responder": "E",
+    "minute": 140,
+    "response": "拒绝",
+    "coverage": "全需求"
+  }
+]
